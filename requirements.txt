@@ -1,0 +1,9 @@
+google-generativeai
+opencv-python
+pillow
+matplotlib
+tqdm
+python-dotenv
+python-Levenshtein
+ipykernel
+jupyter
