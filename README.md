@@ -37,4 +37,4 @@ The pipeline is designed to exceed the **90% accuracy** requirement by combining
 
 ## ✨ Mentors & Contributors
 - **Mentors**: Sergei Gleyzer, Xabier Granja, Nicholas Jones, Harrison Meadows, Emanuele Usai.
-- **Developed by**: [Your Name/Candidate Name]
+- **Developed by**: Oindri Debmallick
